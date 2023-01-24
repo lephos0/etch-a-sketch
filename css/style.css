@@ -1,0 +1,15 @@
+html {
+    background-color: lightpink;
+}
+
+.square {
+    border: 1px solid black;
+    display: inline-flex;
+    width: 36px;
+    height: 36px;
+}
+
+.row {
+    display: flex;
+    width: 608px;
+}
